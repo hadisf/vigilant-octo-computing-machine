@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "name": "vigilant-octo-computing-machine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadisf/vigilant-octo-computing-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadisf/vigilant-octo-computing-machine/issues"
+  },
+  "homepage": "https://github.com/hadisf/vigilant-octo-computing-machine#readme",
+  "description": ""
+}
